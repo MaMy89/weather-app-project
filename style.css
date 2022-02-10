@@ -35,6 +35,11 @@ img {
   width: 40px;
 }
 
+p {
+  font-size: 12px;
+  margin-top: 50px;
+}
+
 .search-form {
   padding: 15px;
 }
